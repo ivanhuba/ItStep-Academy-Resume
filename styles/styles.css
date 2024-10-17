@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    margin: 50px;
+    box-shadow: 10px; 10px; 10px rgba(0, 0, 0, 0.5);
+}
+
+.main-content {
+    background-color: #e4e1fb;
+    margin: 1px;
+}
+
+.sidebar {
+    background-color: #01012f;
+    color: #a4c0fc;
+    margin: 1px;
+    padding: 5px;
+}
+
+.about-user {
+    padding: 25px;
+}
+
+.position {
+    font-family: Vivaldi;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.user-name {
+    font-family: Old English Text MT;
+    font-size: 35px;
+}
+
+.dates {
+    font-family: Arial;
+    color: blue;
+    padding-left: 20px;
+}
+
+.li-python {
+    font-family: Vivaldi;
+    color: orange;
+    box-shadow: 10px; 10px; 10px rgba(0, 0, 0, 0.5);
+}
+
+.sert {
+    color:red;
+}
+
+.photo {
+    width: 250px;
+    border: solid 2px grey;
+    border-radius: 45px; 5px;
+}
+
+.cont, .tel-email {
+    font-family: Cooper;
+    color: white;
+}
